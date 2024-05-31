@@ -1,0 +1,4 @@
+[
+  {"name": "timestamp", "type": "TIMESTAMP", "mode": "REQUIRED"},
+  {"name": "data", "type": "STRING", "mode": "REQUIRED"}
+]
